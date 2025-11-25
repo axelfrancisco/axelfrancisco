@@ -9,4 +9,10 @@ New Era University, Quezon City, Philippines
 ## Certifications:
 - SQL and Relational Databases 101 - https://courses.cognitiveclass.ai/certificates/c418b3bc81bc452e8163b3e5670cd18a
 
-## 
+## Skill sets
+- Programming: HTML, CSS, JavaScript, Python, Java
+- Databases: IBM DB2 Cloud
+- Tools: Lucidchart, Figma, Alight Motion, Visual Studio Code
+
+## Let's Connect!
+- Email: vanaxelfrancisco200626@gmail.com
