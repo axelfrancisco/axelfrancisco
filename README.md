@@ -8,6 +8,8 @@ New Era University, Quezon City, Philippines
 
 ## Certifications
 - SQL and Relational Databases 101 - https://courses.cognitiveclass.ai/certificates/c418b3bc81bc452e8163b3e5670cd18a
+- OCI -
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB9790ECC897742EF4F399E7A8B7A0030A042BC67CB937F80D56FD6A29FACAAF
 
 ## Skill sets
 - Programming: HTML, CSS, JavaScript, Python, Java
